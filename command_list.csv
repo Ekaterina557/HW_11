@@ -23,3 +23,10 @@
    23  git merge develop
    24  git log
    25  history > command_list.csv
+   26  git add .
+   27  git commit -m "Created"
+   28  git push
+   29  git checkout main
+   30  git merge develop
+   31  git log
+   32  history > command_list.csv
